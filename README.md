@@ -10,5 +10,8 @@ Introducing PickyPrep, a meal prep alteranative for picky eaters. PickyPrep aims
 * Member 4 (Role 7, Role 8)
 
 # Prerequisites
+* **MariaDB**: to store food and ingredients and pull queries
+* [**Retool**](https://lostigres.retool.com/editor/432f1f38-925c-11f0-9b3f-7330399fed52/Untitled/page1): An interactive software to build webpages and pull data from our database.
+* [**Jira**](https://cis350-project-los-tigres.atlassian.net/jira/software/projects/MBA/code?atlOrigin=eyJpIjoiOWYzODk1Zjk0YjE0NGUxYmIzYjk2NmRkMDI5NDg1ZjQiLCJwIjoiaiJ9): A simple ticketing software to give eachother goals and bugfixes 
 
 # Run Instuctions
