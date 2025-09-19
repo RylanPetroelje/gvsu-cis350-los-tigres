@@ -6,7 +6,7 @@ Introducing PickyPrep, a meal prep alteranative for picky eaters. PickyPrep aims
 
 * [Rylan Petroelje](https://github.com/RylanPetroelje/CIS350-HW2-Petroelje) (Project Lead, Presenter)
 * [Sujan Tamang](https://github.com/SujanTmg/CIS350-HW2-Tamang) (Backend)
-* Member 3 (Role 5, Role 6)
+* [Landon Wissink](https://github.com/lwissink7/CIS350-HW2-Wissink) (Frontend)
 * Member 4 (Role 7, Role 8)
 
 # Prerequisites
