@@ -5,23 +5,23 @@ Hold a team meeting at least once a week in some format. Copy the following temp
 
 # Meeting Minutes Templates
 
-Team name:
+Team name: Los Tigres
 
-Members present:
+Members present: Rylan, Landon, Jacob, Sujan
 
-Date:
+Date: 9/15/2025
 
-Time:
+Time: 11:30 am
 
 Discussion points:
 
-*   
-* 
-* 
+*Distribute work among the teammembers (Divison of Labor)
+*Make it look like 4 people worked on it for an entire semester 
+* Decide on what coding language will be used
 
 Goals for next week (include responsibilities)
 
-* 
-* 
+* Decide what coding language will be used
+* Schedule next meeting date
 * 
 
