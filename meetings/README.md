@@ -1,9 +1,4 @@
-# CIS350 Meeting Instructions
-
-Hold a team meeting at least once a week in some format. Copy the following template below into a new document, naming it GVSU-CIS350-TEAMNAME-YYYY-MM-DD (replacing TEAMNAME with your team's name and the appropriate date fields). Commit it to this folder, ensuring it is up by each Sunday by 11:59pm. There should be a unique document for each meeting held.
-
-
-# Meeting Minutes Templates
+# CIS 350 Meeting Notes
 
 **Team Name** : Los Tigres 
 
@@ -24,6 +19,7 @@ Hold a team meeting at least once a week in some format. Copy the following temp
 * Schedule next meeting
 
 ------------
+
 **Team Name** : Los Tigres 
 
 **Members Present** : Rylan, Landon, Jacob, Sujan
@@ -32,10 +28,24 @@ Hold a team meeting at least once a week in some format. Copy the following temp
 
 **Time** : 11:30 AM
 
-1. Did prototype (paper + tapes)
-2. Sharing responsibility and each making prototype on paper of one part of the website
-3. Functional Features, Reset Password,
+**Discussion points** :
 
+1. What database will be used? Mango DB?
+2. How many database? Username? Password? Preferences?
+3. Separate database for recipes and potentially users?
+4. Somewhat of an idea of how the project will look
+5. Decide on ticketing system. Jira or GitHub?
+6. Come up with an initial prototype
+7. Design on paper the first page the user is gonna see (*Blueprint*)
+8. What will be used for documentation?
+9. Prototype (*make on paper*)
+10. Retool for front end development
+    *  Has built in flowchart for good presentation
+11. **Main Concern** - 
+    * Divide work so some can learn database and retool
+12. Reminder to reach out if we have any questions
 
+-------
+## Team Meeting
 
-
+  
