@@ -20,7 +20,7 @@ Goals for next week:
 * Schedule next meeting
 
 ------------
-
+## Team Meeting
 Team Name: Los Tigres 
 
 Members Present: Rylan, Landon, Jacob, Sujan
@@ -47,6 +47,7 @@ Has a built-in flowchart for good presentation
 11. Main Concern - 
 * Divide work so some can learn database and retool
 12. Reminder to reach out if we have any questions
+
 -------
 ## Team Meeting
 Team Name: Los Tigres 
@@ -72,6 +73,6 @@ Goals for next week:
 
 * Get more comfortable with retool
 
-* Fix Project Proposal
+* Fix Project Proposal (Fixed)
 
-* Schedule next meeting
+* Schedule next meeting (11:00AM October 13)
