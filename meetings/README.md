@@ -76,3 +76,28 @@ Goals for next week:
 * Fix Project Proposal (Fixed)
 
 * Schedule next meeting (11:00AM October 13)
+-------------
+
+Team Meeting
+-------
+Members Present: Rylan, Landon, Jacob, Sujan
+
+Date: 10/13/2025
+
+Time: 11:20 AM - 12 PM
+
+Discussion points: 
+
+1. Project Proposal/Presentation due Tuesday
+
+2. Database foreign key? Primary?
+   
+   * Need to work on database
+
+3. Food ID, Foreign key to point to other things
+
+Goals for next week:
+
+* Work on Project Proposal / Google Slides Presentation
+
+*  Schedule meeting with Alyshai Nadeem
