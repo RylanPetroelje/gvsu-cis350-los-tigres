@@ -101,3 +101,29 @@ Goals for next week:
 * Work on Project Proposal / Google Slides Presentation
 
 *  Schedule meeting with Alyshai Nadeem
+-------
+Team Meeting
+-------
+Members Present: Rylan (in person), Sujan (in person), Jacob (zoom)
+
+Date: 10/17/2025
+
+Time: 11:30 AM - 12 PM
+
+Discussion points: 
+
+1. 1st Project Presentation today
+
+2. Still working on database, make button work
+   
+   *  Make website functional
+   *  More similar ingredients recommendation
+
+3. QR codes
+
+Goals for next week:
+
+* Implementation for the next 2 week
+
+* Work on Documentation
+
