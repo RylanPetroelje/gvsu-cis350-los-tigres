@@ -1,6 +1,6 @@
 # Overview
 
-The purpose of this document is tooutline the software requirements specification (SRS) for Picky Prep. This document defines the systems functional and non-functional requirements to guide development, testing, and evaluation. Picky Prep aims to learn user prefrences through simple feedback interactions and generate personalized meals and recommendations based on those prefrences.
+The purpose of this document is to outline the software requirements specification (SRS) for Picky Prep. This document defines the systems functional and non-functional requirements to guide development, testing, and evaluation. Picky Prep aims to learn user prefrences through simple feedback interactions and generate personalized meals and recommendations based on those prefrences.
 
 # Functional Requirements
 
