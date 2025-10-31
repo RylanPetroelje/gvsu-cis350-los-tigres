@@ -126,4 +126,36 @@ Goals for next week:
 * Implementation for the next 2 week
 
 * Work on Documentation
+-------
+Team Meeting
+-------
+Members Present: Rylan (zoom), Sujan (in person), Jacob (in person), Landon (zoom)
+
+Date: 10/31/2025
+
+Time: 11:00 - 11:30 AM
+
+Discussion points: 
+
+1. Primary Agenda, discussion scope. What is retool able to do?
+
+2. Practice Daily Stand-Up
+
+* Explain last week's work. Express any issues. 
+* Make the website functional
+*  More similar ingredient recommendations
+* Work on more database/recipes
+
+Ticketing System?
+
+Goals for next week:
+
+* Complete front and back end of the website
+
+Future (Hot Topics):
+
+* Focus on integration (connecting front and backend)
+* Presentation either the 1st week of December or the last week of November
+* Need at least a week of testing
+
 
