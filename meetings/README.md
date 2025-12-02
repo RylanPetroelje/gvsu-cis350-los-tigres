@@ -157,5 +157,28 @@ Future (Hot Topics):
 * Focus on integration (connecting front and backend)
 * Presentation either the 1st week of December or the last week of November
 * Need at least a week of testing
+-------
+Team Meeting
+-------
+***Final Meeting***
 
+Members Present: Rylan, Landon, Jacob, Sujan
 
+Date: 12/02/2025
+
+Time: 1:00 pm - 1:15pm
+
+Discussion points: 
+
+1. Fix alignment on recipe pages
+
+2. Fixed collapsable recipe box
+
+3. More things added to our Databases
+4. Worked on Meat only and Vegan only page
+
+Goals for next week:
+
+* Work on tags and make it functional if feasible
+
+* Get ready for the Final Presentation
