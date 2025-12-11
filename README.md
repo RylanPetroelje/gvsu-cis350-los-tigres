@@ -15,3 +15,4 @@ Introducing PickyPrep, a meal prep alteranative for picky eaters. PickyPrep aims
 * [**Jira**](https://cis350-project-los-tigres.atlassian.net/jira/software/projects/MBA/code?atlOrigin=eyJpIjoiOWYzODk1Zjk0YjE0NGUxYmIzYjk2NmRkMDI5NDg1ZjQiLCJwIjoiaiJ9): A simple ticketing software to give eachother goals and bugfixes 
 
 # Run Instuctions
+The PickyPrep is not available for download as our retool application isn't publicly available.
